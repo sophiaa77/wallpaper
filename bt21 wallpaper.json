@@ -283,7 +283,7 @@
          "id": "70",
          "link_images": "https://i.pinimg.com/564x/78/fa/4c/78fa4c0f5e7cc959e52ae6d5ccfd11cd.jpg"
       },
-	  {
+      {
          "id": "71",
          "link_images": "https://i.pinimg.com/564x/36/1b/74/361b7412256c525cbff34132330ea083.jpg"
       },
@@ -466,6 +466,6 @@
       {
          "id": "16",
          "link_images": "https://i.pinimg.com/564x/7a/d2/de/7ad2de13b616ad518c997cec8dba9562.jpg"
-      },
+      }
   ]
 }
