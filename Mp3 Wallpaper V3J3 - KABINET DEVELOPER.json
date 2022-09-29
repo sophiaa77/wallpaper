@@ -16,8 +16,8 @@
 "MODE_MP3_ONLINE_OFFLINE" : "online",
 
 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
 "ADS_ON_START" : false, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
@@ -29,10 +29,10 @@
 // FAN        backup unity backup startapp
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 20,
+"INTER_COUNT" : 5,
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
@@ -45,7 +45,7 @@
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "12345",
 
-"STARTAPPID" : "123154",
+"STARTAPPID" : "12345",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
